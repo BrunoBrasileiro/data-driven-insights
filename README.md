@@ -63,3 +63,4 @@ Este projeto me permitiu uma imersão prática na exploração e transformação
 ## 🙋 Contato
 
 Bruno Brasileiro - [brunobrasileiro85@gmail.com](mailto:brunonexus85@gmail.com)
+https://www.linkedin.com/in/brunobrasileiro85/
